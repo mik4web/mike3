@@ -296,16 +296,40 @@ HERE ARE THE MESSAGE TEMPLATES ==>
 Send them one of the template messages we've provided. We've included multiple variations to prevent social media platforms from flagging the messages as spam, so be sure to switch between them regularly to stay under the radar.
 
 Version 1:
-Hi, I work for Mike Web3 dev company—the minds behind hit memecoins like $dogenator and $pepefather. We're scouting for fresh Meme Coin ideas that really capture attention. If you have a unique concept, DM it to our main profile @mike_dev_defi. We'll handle the building and marketing for free. Your idea + our expertise = a winning Partnership.
+Hey! Really appreciate the follow 😊 I’m with Mike Web3 Development team . We love building cool web projects—no upfront fees. If you’re curious, we can:
+1️⃣ Craft your dream website—for free , pay only if you love it
+2️⃣ Launch your own meme-coin free —your idea, our  marketing/development
+3️⃣ Code custom bots & automations—free build, pay when approved
+Got something in mind? Just DM us at the main profile   @mike_dev_defi!
+
+
 
 Version 2:
-Hello, I'm part of Mike Web3 development team that launched successful memecoins like $dogenator and $pepefather. We're now on the lookout for more innovative Meme Coin concepts. Got an idea? Send it over via DM at @mike_dev_defi. We cover development and marketing at no cost. Let's team up and create something big!
+
+Hi there! Thanks for connecting 😊 I’m part of the Mike Web3 development team. We build anything on the internet —zero cost until you love it. Here’s what we offer:
+1️⃣ Futuristic website—free design, pay only if you like it
+2️⃣ Meme-coin creation—your concept + our promo and development
+3️⃣ Trading bots & other AI  automations—built free, pay on sign-off
+Feel free to ping us at the main profile  @mike_dev_defi anytime!
+
+
+
 
 Version 3:
-Hey, I work for Mike Web3 dev, a company behind profitable memecoins such as $dogenator and $pepefather. We're seeking new, attention-grabbing Meme Coin ideas. If you have a standout concept, DM it to our main profile @mike_dev_defi. We'll take care of the building and marketing for free. Your idea and our work—let's partner up and win big!
+
+Hello and thanks for the follow 😊 I’m with Mike Web3 Development. We bring your web ideas to life—no payment until you’re satisfied. We can:
+1️⃣ Design your perfect website—for free, you pay only on approval
+2️⃣ Set up a profitable meme-coin—your vision, our marketing/development
+3️⃣ Develop trading bots & AI automations—free build, pay later
+If any of this sounds good, shoot a DM to our main account  @mike_dev_defi!
 
 Version 4:
-"Hey! I'm with Mike Web3, the team behind viral memecoins like $Dogenator and $Pepefather. We're on the hunt for the next big Meme Coin idea that can take the market by storm. Got a unique concept? DM our main profile @mike_dev_defi. We'll take care of the development and marketing—100% free. Your vision + our expertise = The perfect partnership
+
+Hi there! Thanks for following  😊 I’m with Mike Web3 Development company. We build anything on the web—no upfront cost, you pay only if you love it.
+1️⃣ Dream website built for free—pay after you’re happy
+2️⃣ Profitable web3 business like  meme-coin setup—your idea + our marketing/development 
+3️⃣ Custom trading bot or AI automation—built free, pay on approval 
+Let me know if you have anything in mind and  DM it at our main profile  @mike_dev_defi!
 
 📌 STEP 2:
 ⚠️ TikTok does not recognize the @username command, meaning users won't be redirected to the profile when mentioned in DMs.
