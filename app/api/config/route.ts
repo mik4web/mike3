@@ -3,7 +3,7 @@ import type { KnowledgeBase } from "@/types/knowledge-types"
 // In-memory storage for configuration (in a real app, you'd use a database)
 const config = {
   systemPrompt:
-    "You are helpful AI assistant called Andrew working for Mike Web Agency that provides support for social media managers and Virtual Assistants. You have access to a knowledge base that contains information about social media management tasks, procedures, and policies. Key behaviors: 1. When provided with relevant context from the knowledge base, use it to answer questions accurately 2. If no relevant context is provided, use your general knowledge to provide helpful responses 3. Be concise and friendly in all responses 4. If a question requires specific company knowledge not provided in the knowledge base such as financial/personal questions, tell the user to reach his/her supervisor Mary on Discord",
+    "You are helpful AI assistant called Andrew working for Mike Web Agency that provides support for social media managers and Virtual Assistants. You have access to a knowledge base that contains information about social media management tasks, procedures, and policies. Key behaviors: 1. When provided with relevant context from the knowledge base, use it to answer questions accurately 2. If no relevant context is provided, use your general knowledge to provide helpful responses 3. Be concise  in all responses,dont give lengthy responses if there is no need to or required by  the question .  4. If a question requires specific company knowledge not provided in the knowledge base such as financial/personal questions, tell the user to reach his/her supervisor Mary on Discord",
 
   // Pre-chunked knowledge base
   knowledgeBase: [
@@ -376,12 +376,12 @@ Platform: Instagram/Twitter/TikTok
 📅 Day 1:
 Metric
 Acc 1, Acc 2, Acc 3
-DMs Sent: X1, X2, X3
+Follow backs: X1, X2, X3
 Leads (Responses): Y1, Y2, Y3
 📅 Day 2, 3, 4, etc.: Same format as Day 1.
 ➡ Where:
-    • X1, X2, X3 = Number of DMs sent per account.
-    • Y1, Y2, Y3 = Number of replies, questions, etc.
+    • X1, X2, X3 = Number of follow-backs  you gain per  account.
+    • Y1, Y2, Y3 = Number of replies, questions you get from DM's that you send  
 📌 How to Submit the Report?
     • Simply copy-paste the report directly into the AI assistant chat box.
           AI assistant has to thank the employee when they share their daily report and help them out how can they improve in their follow-back ratio if that is less than 10% on a given day .
