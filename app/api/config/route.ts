@@ -358,7 +358,7 @@ This keeps communication streamlined and ensures potential leads are handled pro
 
 1️⃣ AI Chatbot for Technical & Work-Related Questions
 To help you navigate day-to-day technical and general questions—especially during your first month—we have set up our own AI Chatbot, specifically trained for your scope of work.
-💬 Access your AI Assistant here: andrew.mik3defi.com
+💬 Access your AI Assistant here: https://chat.mike3web.com/
 📌 Use this chatbot for:
     ✔️ Troubleshooting issues with your accounts.
     ✔️ Guidance on operational processes.
