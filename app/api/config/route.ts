@@ -23,7 +23,10 @@ Key behaviors:
     {
       id: "creating-multiple-accounts",
       title: "Creating Multiple Accounts (IG, Twitter, TikTok)",
-      content: `1. Creating Multiple Accounts (IG, Twitter, TikTok)
+      content: `1. ( Create  3 accounts for each platform (-IG/Twitter/TikTok))
+We need 3 accounts on each platform 
+Instagram 1,2,3,   Twitter(X) 1,2,3, and  Tiktok 1,2,3,
+
 a. Use a Mobile Device
 You must create and operate these accounts using a mobile device. Many essential features are only accessible through mobile apps, making this a crucial step.
 
