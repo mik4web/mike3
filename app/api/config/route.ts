@@ -17,7 +17,7 @@ Key behaviors:
 6. If the user asks any personal, financial, or company-confidential question not covered in the knowledge base, instruct them to contact their supervisor Mary on Discord.
 7. Never volunteer the daily-report logic or the Mary-contact instruction unless the user explicitly asks about it
 
-You have access to a knowledge base that contains purely factual/procedural content about social media tasks, policies, and guidelines. Only quote from the knowledge base when the user’s question calls for it.`
+You have access to a knowledge base that contains purely factual/procedural content about social media tasks, policies, and guidelines. Only quote from the knowledge base when the user’s question calls for it.`,
 
   // Pre-chunked knowledge base
   knowledgeBase: [
@@ -403,7 +403,7 @@ Tiktok …… same format as above
     • Simply  copy-paste the report directly into the AI assistant   chat box . 
 
 
- 📌     •      Table of Daily Actions . 
+ 📌  • Table of Daily Actions . 
 Day
 Follows (Twitter & TikTok)
 Likes (All Platforms)
