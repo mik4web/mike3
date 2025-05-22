@@ -84,7 +84,7 @@ Remember to only use this information and your general knowledge to answer the q
           { role: "system", content: `${systemMessage.content.substring(0, 100)}... [Truncated]` },
           ...limitedMessages.map((m) => ({ role: m.role, content: m.content })),
         ],
-        model: "google/gemini-2.0-flash-exp:free",
+        model: "deepseek/deepseek-chat-v3-0324:free",
         usingUserApiKey: !!userApiKey,
         estimatedTokens,
         contextLength: relevantContext.length,
@@ -109,7 +109,7 @@ Remember to only use this information and your general knowledge to answer the q
           "X-Title": "Customizable AI Chatbot",
         },
         body: JSON.stringify({
-          model: "google/gemini-2.0-flash-exp:free", // Primary model
+          model: "deepseek/deepseek-chat-v3-0324:free", // Primary model
           messages: allMessages,
           temperature: 0.7,
           max_tokens: 800, // Reduced from 1000 to help prevent timeouts
