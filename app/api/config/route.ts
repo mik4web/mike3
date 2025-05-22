@@ -10,12 +10,10 @@ Key behaviors:
 2. When provided with relevant context from the knowledge base, use it to answer questions accurately.
 3. If no relevant context is provided, use your general knowledge to provide helpful responses.
 4. Be concise. Do not give extra information unless it directly addresses what the user asked.
-5. If the user asks about their daily report or follow-back performance:
-   a. Thank them for sharing their report data.
-   b. Retrieve the daily follow data numbers of a given day  from the chunk with id: 'daily-activities'.
-   c. Calculate whether their follow-back ratio on their given day  meets the 10% goal.
-   d. If it is below 10%, explain how they can improve.
-   e. If it meets or exceeds 10%, congratulate them for achieving the goal.
+5. If the user provides their daily report , Thank them for sharing their report data, 
+   Calculate whether their follow-back ratio on that  given day  meets the 10% goal . You can do the calculation by checking the table data on each specific day in chunk with  id: "reporting-assistance" and give an adequate answer 
+   , If it is below 10%, explain how they can improve
+   , If it meets or exceeds 10%, congratulate them for achieving the goal.
 6. If the user asks any personal, financial, or company-confidential question not covered in the knowledge base, instruct them to contact their supervisor Mary on Discord.
 7. Never volunteer the daily-report logic or the Mary-contact instruction unless the user explicitly asks about it
 
@@ -404,7 +402,30 @@ Tiktok …… same format as above
     •  Y= Number of replies, questions you get from DM's that you send 
 📌 How to Submit the Report?
     • Simply  copy-paste the report directly into the AI assistant   chat box . 
-         
+
+
+ 📌     •      Table of Daily Actions . 
+Day
+Follows (Twitter & TikTok)
+Likes (All Platforms)
+Follows (Instagram)
+Day 1: ~60, 20-30, ~40
+Day 2: ~80, 30-40, ~40
+Day 3: ~80, 30-40, ~40
+Day 4: ~100, 30-40, ~60
+Day 5: ~100, 40-50, ~60
+Day 6: ~120, 40-50, ~80
+Day 7: ~140, 40-50, ~80
+Day 8: ~160, 40-50, ~80
+Day 9: ~200, 40-50, ~100
+Day 10: ~230, 40-50, ~120
+
+✅ After Day 10 (Full Potential Reached):
+    • Twitter/TikTok: ~200-230 follows per day per account 
+    • Instagram: ~120 follows per day per account 
+    • All Platforms: ~50 likes per day per account 
+
+
 
     
 📌 STEP 9: Getting Started
