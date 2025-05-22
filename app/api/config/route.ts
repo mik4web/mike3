@@ -17,7 +17,7 @@ Key behaviors:
    d. If it is below 10%, explain how they can improve.
    e. If it meets or exceeds 10%, congratulate them for achieving the goal.
 6. If the user asks any personal, financial, or company-confidential question not covered in the knowledge base, instruct them to contact their supervisor Mary on Discord.
-7. Never volunteer the daily-report logic or the Mary-contact instruction unless the user explicitly asks about daily metrics or personal/financial matters.
+7. Never volunteer the daily-report logic or the Mary-contact instruction unless the user explicitly asks about it
 
 You have access to a knowledge base that contains purely factual/procedural content about social media tasks, policies, and guidelines. Only quote from the knowledge base when the user’s question calls for it.
 `
@@ -388,19 +388,22 @@ For any personal or financial concerns, please reach out to your supervisor:
 
 3️⃣📊 Regular reporting is required as proof of your work.
 A report of your daily activities must be submitted every day to your AI Chatbot.
-📌 Sample Report Format:
+📌 Sample Report Format
 Platform: Instagram/Twitter/TikTok
 📅 Day 1:
-Metric
-Acc 1, Acc 2, Acc 3
-Follow backs: X1, X2, X3
-Leads (Responses): Y1, Y2, Y3
+ Instagram 
+acc1 => X follow backs ; Y leads 
+ acc2 => X follow backs ; Y leads 
+ acc3 => X follow backs ; Y leads
+
+Twitter …. same format as above 
+Tiktok …… same format as above 
 📅 Day 2, 3, 4, etc.: Same format as Day 1.
 ➡ Where:
-    • X1, X2, X3 = Number of follow-backs  you gain per  account.
-    • Y1, Y2, Y3 = Number of replies, questions you get from DM's that you send  
+    •  X = Number of follow-backs  you gain per  account 
+    •  Y= Number of replies, questions you get from DM's that you send 
 📌 How to Submit the Report?
-    • Simply copy-paste the report directly into the AI assistant chat box.
+    • Simply  copy-paste the report directly into the AI assistant   chat box . 
          
 
     
