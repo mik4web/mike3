@@ -201,53 +201,59 @@ If your account is suspended and you can't log in:
       id: "follow-like-strategy",
       title: "How & Where to Follow and Like",
       content: `4. How & Where to Follow
-📌 Targeted Following Strategy.
-There is a 2 STEP process in following people on a daily basis.
+It is absolutely prohibited to follow anywhere you can to complete the daily following tasks . There is a logic we will implement in this task and it will be explained below . 
 
-📌 STEP 1:
-1️⃣ You will follow only through target references selected by our algorithms and given to you on Discord chat.
-    • You cannot follow random accounts.
-    • The selected targets we have chosen have the highest conversion rate for leads and clients.
-2️⃣ Your target profiles will be provided once your accounts are set up and have initial posts.
-3️⃣ At the end of the month, we will require proof that you have followed the correct targets.
+You will be given a target profile  on Discord   for each of your accounts as reference to start following  once you create the accounts and post the  initial posts . 
 
-🛠️ How to Follow the Target Accounts
+🛠️ How to Follow in  the Target Profile References
 
-Recently social media platforms (IG, X, TikTok) have disabled the ability to see someone's full "Follower" list tab. Now you can currently view only around 50 people, which has made it extremely difficult to mass follow on a daily basis. This is why we have implemented a clever strategy on generating mass following from a reference (target) point.
+ Until A  couple of months ago  it was really simple to follow people from a big  influencer’s page  . But,
+Recently social media platforms (IG ,X,TikTok) has disabled the ability to see someone’s full “Follower “ list tab . Now you can currently view only around 50 people which has made it extremely difficult to mass follow on daily basis . This is why we have implemented a clever strategy on generating mass following each dat   from a reference(target ) point . 
 
-📌 Step-by-Step Following Method:
-1️⃣ Go to your assigned target profile provided by us on Discord.
-2️⃣ Click on its "Followers" tab.
-3️⃣ Open the profile of the 1st follower and follow their audience (followers).
-4️⃣ Once finished, move to the 2nd follower's profile and follow their audience.
-5️⃣ Repeat for the 3rd, 4th, … up to the 50th+ follower of the target account.
-💡 This ensures you always have fresh accounts to follow without limitations.
+📌 Step-by-Step  Following Method:
+We will start by giving you an example . Lets assume we give you a profile with the username BEN  on discord as reference to start following .Here is what you are gonna do : 
+✅ DAY 1
+    1. Go to the profile we give you  (called BEN).
+    2. Open BEN’s followers List.
+    3. Pick 4 followers you like (call them B1, B2, B3, B4).
+    4. Go to each of those (B1–B4) open their follower list and follow their followers 
+     
+       Hope you understood so far ,its really simple ,you will pick  only  4 profiles of your own choice from our Target BEN and follow their audience 
+       
+  
+       
 
-Here is an image illustration to make things clearer 
 
-📌 STEP 2: What to Do After Running Out of People to Follow on the provided targets?
 
-✅ By the time you run out of accounts to follow using the STEP 1 method, your own "Followers" list will have already grown significantly due to follow-backs.
-👉 You can now simply start following the audience of the people that are following you back.
-🛠️ Steps to Follow New Accounts from Your "Followers" List:
-1️⃣ Go to your account profile.
-2️⃣ Open the "Followers" tab.
-3️⃣ Start following the followers of each person on that list.
-💡 So the idea is simple: you use your new friends' audience as targets to follow new people. This ensures a continuous flow of new accounts to follow.
+✅ DAY 2
+    1. Lets say you got for example 10 people following you back from the follows you did on DAY 1 . Pick 1 person who followed you back from that  Day 1 (lets call it  MARY ).
+    2. Open MARY’s followers.
+    3. Pick 4 followers from her list (M1, M2, M3, M4).
+    4. Go to M1–M4  profiles and follow their followers  . Its the same logic as you did with BEN
 
-CAUTION !! VERY IMPORTANT
-🚨 Do not follow the same people twice.
-How to Avoid Following the Same People Twice when daily following:
-✅ Double-check the target profile before following its followers. Always verify if you have already used this profile as a source.
-✅ Keep a record of the last profile you used to gather followers. This helps you avoid repeating the same target.
+🔁 DAY 3 to DAY 30+
+    1. Pick 1 new person from yesterday’s follow-backs as the new target reference choose 4 picks  and 
+    2. Repeat the same  process.
 
-It is crucial not to follow the same people twice since it would defeat the purpose of the job.
+All in all ,  It’s  a very simple logic — each day, just pick one new person from your new followers (who followed you back-like Mary for example ) and  simply use them as your next target reference . This way, you’ll always have plenty of fresh accounts to follow every day and more importantly there are new  profiles  not repeated faces .
+
+We have also implemented some rules to ensure the most possible lead conversion
+
+Rules 
+    • RULE 1: Keep a list of the targets you’ve used (BEN, MARY, etc.), so you don’t repeat and follow the same people twice.
+    • RULE 2: Choose accounts that look Western or high quality.
+⛔ Avoid Arabic, Indian, or African profiles—they usually don’t give much profitability for our company 
+    • RULE 3: If you’re not getting at least 7–10% follow-backs (7-10 follow-backs in 100 follows ), drop that target and choose a new one.
+    • RULE 4: Avoid choosing  big marketing accounts or profiles with many followers as target references —they’re often bots or inactive.
+
+
+
 
 🚨 Each of your accounts will have ONLY ONE initial assigned target (reference).
 Example: Account 1 corresponds to target reference 1,
          Account 2 corresponds to target reference 2,
          Account 3 corresponds to target reference 3.
-Do not mix these target references to prevent following the same people.
+
 
 📊 Follow-Back Ratio
 📌 Mass following typically results in a 10% follow-back rate.
